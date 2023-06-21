@@ -4,5 +4,5 @@
 
 # GufliMC
 
-This organization contains all Minecraft related repositories for [Gufli](https://github.com/GufliOfficial).
+Check out our [official website](https://guflimc.com) to download new releases, read the documentation or check out premium resources.
 
